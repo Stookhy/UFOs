@@ -25,7 +25,7 @@
 
   Drawbacks
   
-    The search criteria are case sensitive and must match the information to appear. The website information cannot be exported into an Excel spreadsheet, or other friendlier programs. Users must be aware of specific information that they need to filter by.
+   The search criteria are case sensitive and must match the information to appear. The website information cannot be exported into an Excel spreadsheet, or other friendlier programs. Users must be aware of specific information that they need to filter by.
     
   Recommendations
 
