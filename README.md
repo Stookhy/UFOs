@@ -13,20 +13,20 @@
 
 ## Results
 
-  •	A cleared search provides information for all UFO sightings, including date, city, state, country, shape, duration, and commentary
-  •	The site populates all matches when a city is entered in the filter search.
-  •	The site populates all matches when a state is entered in the filter search.
-  •	The site populates all matches when a country is entered in the filter search.
-  •	The site populates all matches when a shape is entered in the filter search.
-  •	The site populates all matches when a date is entered in the filter search.
+   A cleared search provides information for all UFO sightings, including date, city, state, country, shape, duration, and commentary. 
+   *  The site populates all matches when a city is entered in the filter search. 
+   *  The webpage populates all matches when a state is entered in the filter search. 
+   *  The webpage populates all matches when a country is entered in the filter search. 
+   *  The webpage populates all matches when a shape is entered in the filter search. 
+   *  The webpage populates all matches when a date is entered in the filter search.
 
 
 ## Summary
 
   Drawbacks
-    - The search criteria are case sensitive and must match the information to appear.
-    - The website information cannot be exported into an Excel spreadsheet, or other friendlier programs.
-    - Users must be aware of specific information that they need to filter by.
+    1.  The search criteria are case sensitive and must match the information to appear.
+    2.  The website information cannot be exported into an Excel spreadsheet, or other friendlier programs.
+    3.  Users must be aware of specific information that they need to filter by.
     
   Recommendations
 
