@@ -9,6 +9,8 @@
 
 ## Purpose
 
+  Create a more in-depth analysis of UFO sightings by allowing users to filter for muliple criters at the same time. Adding a table to filter through the date, city, state, country, shape, duration, and comments. 
+
 ## Results
 
 ## Summary
