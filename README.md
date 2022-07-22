@@ -20,6 +20,9 @@
    *  The webpage populates all matches when a shape is entered in the filter search. 
    *  The webpage populates all matches when a date is entered in the filter search.
 
+![This is an image](https://github.com/Stookhy/UFOs/blob/main/static/images/Filter_Search.png?raw=true)
+
+![This is an image](https://github.com/Stookhy/UFOs/blob/main/static/images/Filter_Search_la_mesa.png?raw=true)
 
 ## Summary
 
