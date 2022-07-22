@@ -13,12 +13,12 @@
 
 ## Results
 
-•	A cleared search provides information for all UFO sightings, including date, city, state, country, shape, duration, and commentary
-•	The site populates all matches when a city is entered in the filter search.
-•	The site populates all matches when a state is entered in the filter search.
-•	The site populates all matches when a country is entered in the filter search.
-•	The site populates all matches when a shape is entered in the filter search.
-•	The site populates all matches when a date is entered in the filter search.
+  •	A cleared search provides information for all UFO sightings, including date, city, state, country, shape, duration, and commentary
+  •	The site populates all matches when a city is entered in the filter search.
+  •	The site populates all matches when a state is entered in the filter search.
+  •	The site populates all matches when a country is entered in the filter search.
+  •	The site populates all matches when a shape is entered in the filter search.
+  •	The site populates all matches when a date is entered in the filter search.
 
 
 ## Summary
